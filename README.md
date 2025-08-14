@@ -69,10 +69,7 @@
 ## 🎯 Dự án học tập
 <p align="center">
   <a href="https://github.com/Tuananh-Clu/Movie_Booking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuananh-Clu&repo=learning-project-1&theme=radical&hide_border=true" alt="Learning Project 1" />
-  </a>
-  <a href="https://github.com/Tuananh-Clu/learning-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuananh-Clu&repo=learning-project-2&theme=radical&hide_border=true" alt="Learning Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuananh-Clu&repo=Movie_Booking&theme=radical&hide_border=true" alt="Learning Project 1" />
   </a>
 </p>
 
