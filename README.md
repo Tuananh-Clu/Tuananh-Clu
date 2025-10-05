@@ -1,18 +1,28 @@
 <div align="center">
-  <h1>👋 Xin chào, tôi là TuanAnh!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Junior+Developer;Learning+.NET+%26+React;Passionate+about+coding;Growing+every+day!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+  <h1>Xin chào, mình là TuanAnh! 🚀</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Junior+Developer+on+the+rise!;Đam+mê+React+và+.NET;Luôn+khám+phá+điều+mới+mỗi+ngày;Sẵn+sàng+kết+nối+và+học+hỏi!"/>
 </div>
 
 ---
 
-## 🚀 Về tôi
-- 🌱 Junior Developer đang học hỏi và phát triển kỹ năng  
-- 💻 Thực hành với React và ASP.NET Core  
-- 📚 Học sâu về TypeScript & Web Development  
-- 🎯 Mục tiêu: Cải thiện kỹ năng lập trình mỗi ngày  
-- 💬 Hỏi tôi về React, TypeScript, C#, ASP.NET Core  
-- 📫 Liên hệ: [yianh798@gmail.com](mailto:yianh798@gmail.com)  
-- ⚡ Sở thích: Code mỗi ngày & học những điều mới 📖  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tuananh-Clu&theme=radical&no-frame=true&no-bg=true&margin-w=6" />
+</div>
+
+---
+
+## 🌟 Slogan cá nhân
+> **“Không có ngày nào là lãng phí nếu bạn học được điều mới.”**  
+> **“Code, Coffee, Repeat ☕”**
+
+---
+
+## 😄 Fun Facts
+- 💡 Mình có thể code cả ngày không biết mệt!
+- ☕ Không thể thiếu cà phê và nhạc chill khi làm việc.
+- 🌏 Đam mê chinh phục thử thách công nghệ mới mỗi tuần.
+- 😂 Có thể sẽ gửi meme công nghệ nếu bạn inbox hỏi code!
 
 ---
 
@@ -49,23 +59,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Thành tựu nhỏ nhưng có võ
+<p align="center">
+  <img src="https://img.shields.io/badge/100DaysOfCode-Completed-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Everyday-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Love-OpenSource-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tuananh-Clu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuananh-Clu&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuananh-Clu&layout=compact&theme=radical&hide_border=true" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tuananh-Clu&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuananh-Clu&theme=radical"/>
 </p>
 
 ---
 
-## 🎯 Dự án học tập
+## 🎯 Dự án học tập nổi bật
 <p align="center">
   <a href="https://github.com/Tuananh-Clu/Movie_Booking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuananh-Clu&repo=Movie_Booking&theme=radical&hide_border=true" alt="Learning Project 1" />
@@ -74,7 +89,7 @@
 
 ---
 
-## 📚 Hiện tại tôi đang học
+## 📚 Đang học gì?
 - 🔥 React Hooks & Component Lifecycle  
 - 🎨 Responsive Design với CSS Grid & Flexbox  
 - ⚙️ ASP.NET Core Web API  
@@ -84,6 +99,21 @@
 
 ---
 
+## 📬 Kết nối với mình!
+<p align="center">
+  <a href="mailto:yianh798@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://github.com/Tuananh-Clu"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧑‍💻 My Life in Emojis
+💻☕🎵😆🚀
+
+---
+
 <div align="center">
-  <h3>💪 Cảm ơn bạn đã ghé thăm! Hãy cùng học và phát triển nhé! 🚀</h3>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
+  <h3>💪 Cảm ơn bạn đã ghé thăm! Hãy cùng học hỏi, kết nối và phát triển nhé! 🚀</h3>
 </div>
