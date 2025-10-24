@@ -10,13 +10,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Tuananh-Clu&theme=radical&no-frame=true&no-bg=true&margin-w=6" />
 </div>
 
----
-
-
----
-
----
-
 ## 🛠️ Công nghệ & Công cụ
 
 ### FrontEnd
