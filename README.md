@@ -18,12 +18,6 @@
 
 ---
 
-## 😄 Fun Facts
-- 💡 Mình có thể code cả ngày không biết mệt!
-- ☕ Không thể thiếu cà phê và nhạc chill khi làm việc.
-- 🌏 Đam mê chinh phục thử thách công nghệ mới mỗi tuần.
-- 😂 Có thể sẽ gửi meme công nghệ nếu bạn inbox hỏi code!
-
 ---
 
 ## 🛠️ Công nghệ & Công cụ
