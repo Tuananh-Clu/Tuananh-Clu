@@ -12,9 +12,6 @@
 
 ---
 
-## 🌟 Slogan cá nhân
-> **“Không có ngày nào là lãng phí nếu bạn học được điều mới.”**  
-> **“Code, Coffee, Repeat ☕”**
 
 ---
 
@@ -53,12 +50,6 @@
 
 ---
 
-## 🏆 Thành tựu nhỏ nhưng có võ
-<p align="center">
-  <img src="https://img.shields.io/badge/100DaysOfCode-Completed-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Everyday-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Love-OpenSource-orange?style=for-the-badge"/>
-</p>
 
 ---
 
