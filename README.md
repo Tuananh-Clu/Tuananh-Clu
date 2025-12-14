@@ -59,11 +59,20 @@
 ---
 
 ## 🎯 Dự án học tập nổi bật
-<p align="center">
+<div >
+  <p align="center">
   <a href="https://github.com/Tuananh-Clu/Movie_Booking">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuananh-Clu&repo=Movie_Booking&theme=radical&hide_border=true" alt="Learning Project 1" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/Tuananh-Clu/Movie_Booking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuananh-Clu&repo=Aurelia_E-commerce&theme=radical&hide_border=true" alt="Learning Project 1" />
+  </a>
+</p
+</div>
+>
+
 
 ---
 
