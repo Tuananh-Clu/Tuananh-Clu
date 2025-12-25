@@ -82,6 +82,9 @@ Mình là **Tuan Anh** — một **Junior Web Developer** tập trung vào **xâ
 <a href="https://github.com/Tuananh-Clu/Aurelia_E-commerce">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuananh-Clu&repo=Aurelia_E-commerce&theme=tokyonight&hide_border=true"/>
 </a>
+<a href="https://aureliashop.vercel.app/">
+  <p>Link Deploy</p>
+</a>
 
 ---
 
@@ -99,7 +102,9 @@ Mình là **Tuan Anh** — một **Junior Web Developer** tập trung vào **xâ
 - Quản lý suất chiếu
 - Phân quyền user / admin
 - RESTful API rõ ràng
-
+<a href="https://github.com/Tuananh-Clu/Movie_Booking">
+  <p>Link Deploy</p>
+</a>
 <a href="https://github.com/Tuananh-Clu/Movie_Booking">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tuananh-Clu&repo=Movie_Booking&theme=tokyonight&hide_border=true"/>
 </a>
