@@ -51,13 +51,13 @@ Mình là **Tuan Anh** — một **Junior Web Developer** tập trung vào **xâ
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
 ### 🧩 Backend
-<img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,nodejs" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet" />
 
 ### 🗄 Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlserver,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlserver" />
 
 ### ⚙️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,vercel" />
 
 ---
 
